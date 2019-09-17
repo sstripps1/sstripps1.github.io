@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First post on site!"
+title: "My first post"
 date: 2019-09-17
 ---
 
