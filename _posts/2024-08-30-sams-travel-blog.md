@@ -31,7 +31,7 @@ Starting from Vancouver in his converted minivan, we took about 5 days to drive 
 ![IMG_3623](/assets/IMG_3623.jpg)\
 *3:43am on the solstice; From Nare's Mountain*
 
-![IMG_4318](/assets/IMG_4318.jpg)\
+![IMG_4318](/assets/IMG_4318.JPG)\
 *My first time building a snowman in June*
 
 
@@ -334,7 +334,7 @@ Along the way down the coast I’d stopped in a town called Port Macquarie (in N
 ![IMG_2794](/assets/IMG_2794.jpg)\
 *Rainbow Lorikeet family; Golden hour skate*
 
-![IMG_3210](/assets/IMG_3210.jpg)\
+![IMG_3210](/assets/IMG_3210.JPG)\
 *Spotted in a tide pool by a beach in Port Mac*
 
 At the start of 2024 I left Port Macquarie and headed back to Sydney for a few days, during which time I took a day trip to the Blue Mountains. From there I took a scenic train ride through the countryside down to Melbourne, where I would spend my last few months in Aus. Melbourne felt the least specifically Australian - it just felt like a city - but nevertheless it was probably my favourite place in Australia. There was never a shortage of things to do, and I ended up forming the best group of friends I’d had in my entire time away. Plus, my jobs were a lot of fun as well - I worked at a takeaway salad/bowl restaurant (which was right up my alley, I love healthy food), and also at a cute (and dog friendly) cafe. I really couldn’t have asked for a better setup during my time there.
@@ -359,9 +359,9 @@ During those months I managed to get out of the city a few times to see some of 
 ![IMG_4070](/assets/IMG_4070.jpg)\
 *Sunset over the Melbourne skyline; Courtyard of the cafe I worked at*
 
-![IMG_0115](/assets/IMG_0115.jpg)
-![IMG_0126](/assets/IMG_0126.jpg)
-![IMG_0172](/assets/IMG_0172.jpg)\
+![IMG_0115](/assets/IMG_0115.JPG)
+![IMG_0126](/assets/IMG_0126.JPG)
+![IMG_0172](/assets/IMG_0172.JPG)\
 *The Grotto, Great Ocean Road; Cool rock formations; 12 apostles*
 
 The last leg of my Australian journey was a week-long road trip down in Tasmania, with 4 of my friends. Tasmania was a lot more wild than any other place I’d seen so far - the amount of Wallabies we saw hopping around was really surprising, and really cute. It was also a lot more mountainous than anywhere I’d been on the mainland, which made for some cool hikes (we luckily managed to climb the Cradle mountain summit on a day that was clear and not very windy). Although it was freezing cold at night, it was still one of the best parts of my time Down Under.
@@ -390,7 +390,7 @@ The last leg of my Australian journey was a week-long road trip down in Tasmania
 *From the Cradle Mountain Summit; Lunch by the lake; Russell Falls*
 
 ![IMG_05055](/assets/IMG_05055.jpg)
-![IMG_0471](/assets/IMG_0471.jpg)\
+![IMG_0471](/assets/IMG_0471.JPG)\
 *The noble steed; Paint me like one of your French Roos*
 
 And just like that, a year had gone by! And what a year it was. I’m glad I got to see as much of the country as I did, but there’s still so much more I didn’t get to see. I guess I’ll add it to my rapidly growing list of places I ought to return to someday.
