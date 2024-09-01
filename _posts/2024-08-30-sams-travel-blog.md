@@ -3,13 +3,14 @@ layout: post
 title: "Sam's Travel Blog"
 date: 2024-08-30
 ---
+*15 minute read*
 
 I’ve always wanted to travel. As a kid I was fascinated by geography, and spent hours studying the globe and doing research on different countries. This interest only heightened as I got older, and although I had the chance to do short trips here and there, there were still many places on my list that I’d yet to see. So, in September 2022, after completing my undergrad, several internships, and spending some time in a full time role, I decided to take some time off to finally satisfy my travel bug. And let me tell you, it was quite the adventure!
 
 
 ## Yukon Territory: June 2022
 Okay, this one was technically a vacation before leaving my job, but it’s too cool not to mention. The Canadian North is a vast and wild frontier that I actually knew quite little about growing up in the Suburbs of Toronto. So when my friend and housemate in Vancouver proposed a road trip up to the Yukon, I was keen to see what it had to offer.\
-Starting from Vancouver in his converted minivan, we took about 5 days to drive the more than 2000km to the Yukon border, passing through many beautiful mountain vistas on the way. The beautiful views didn’t end there, as the Yukon itself proved to have some of the most striking and serene landscapes I’d ever seen. From doing an overnight hike in Kluane national park (home to one of my most diverse Grizzly bear populations in North America - luckily none paid us a visit), to spending the summer solstice on a hilltop in Dawson city as part of an Indigenous celebration, it was truly a trip to remember. A few lessons I learned on this trip:
+Starting from Vancouver in his converted minivan (with his adorable dog Hugo in tow), we took about 5 days to drive the more than 2000km to the Yukon border, passing through many beautiful mountain vistas on the way. The beautiful views didn’t end there, as the Yukon itself proved to have some of the most striking and serene landscapes I’d ever seen. From doing an overnight hike in Kluane national park (home to one of my most diverse Grizzly bear populations in North America - luckily none paid us a visit), to spending the summer solstice on a hilltop in Dawson city as part of an Indigenous celebration, it was truly a trip to remember. A few lessons I learned on this trip:
 1. Experiencing nearly 24hour daylight is all fun and games until it’s time to fall asleep - this is where a sleeping mask does wonders
 2. The mosquitoes in Ontario are nothing compared to the mosquitoes in the Yukon - you’ve been warned!
 3. The more beautiful the lake, the colder the water
@@ -38,7 +39,7 @@ Starting from Vancouver in his converted minivan, we took about 5 days to drive 
 ## Southwest USA: October 2022
 
 I kicked off my gap year(s) with a road trip down south. Starting from Vancouver (where I was living at the time), my friend and I hit the road in her Mitsubishi Delica Space Gear and began driving down the west coast to San Francisco (by way of Seattle, Portland, lots of beaches, and some incredibly tall trees).
-After spending a few days in my favorite American city, we headed inland, through Yosemite, and into the desert. After a quick pitstop in Vegas, and a brief stint in the South of Utah, we made it to the red rocks of Arizona. From there, we headed back west to southern California (pushing the 20 year old van’s air conditioning to the absolute limit as we drove through death valley), and then finally back up to Canada.
+After spending a few days in San Fran (my favourite American city), we headed inland, through Yosemite, and into the desert. After a quick pitstop in Vegas, and a brief stint in the South of Utah, we made it to the red rocks of Arizona. From there, we headed back west to southern California (pushing the 20 year old van’s air conditioning to the absolute limit as we drove through death valley), and then finally back up to Canada.
 This trip was a bit of a whirlwind (over 8000km in 26 days), but the amount we got to see in that time made it all worth it.
 
 ![IMG_4690](/assets/IMG_4690.jpg)
@@ -70,13 +71,13 @@ This trip was a bit of a whirlwind (over 8000km in 26 days), but the amount we g
 *Scenic coastline in Big Sur; The Tree of Life in Olympic National Park*
 
 
-## India: January - Februrary 2023
+## India: January - February 2023
 
 After seeing more of what North America had to offer, it was time to head overseas for my first proper backpacking trip. My first destination was Rishikesh, India, to complete my 200 hour Yoga Teacher training course. 
 
 I’d begun doing yoga at the start of the pandemic as a way to increase strength and flexibility and just generally alleviate stress. After a few years of evolving my practice on YouTube, I wanted to take my practice to the next level and learn what Yoga was really about - and what better place to do it than the Yoga capital of the world.
 
-My time in Rishikesh was pretty unforgettable. With the breathtaking backdrop of the himalayas and the river Ganga, I had the chance to learn so much about what yoga is (and is not), push my body and mind more than I’d ever done before, and meet some incredible people. I think my biggest takeaway from this experience was how much power can be unlocked by looking inwards and becoming “masters of our minds” (i.e. being able to remove the “mind modifications” of everyday life and access unaltered and undisturbed channels of our consciousness). Of course, this is a fairly abstract concept and can be difficult to contextualize (for myself included), but this is essentially the “goal” of yoga, at least in the most traditional sense. And adhering to a regular practice of yoga is the path towards this form of liberation.
+My time in Rishikesh was pretty unforgettable. With the breathtaking backdrop of the Himalayas and the river Ganga, I had the chance to learn so much about what yoga is (and is not), push my body and mind more than I’d ever done before, and meet some incredible people. I think my biggest takeaway from this experience was how much power can be unlocked by looking inwards and becoming “masters of our minds” (i.e. being able to remove the “mind modifications” of everyday life and access unaltered and undisturbed channels of our consciousness). Of course, this is a fairly abstract concept and can be difficult to contextualize (for myself included), but this is essentially the “goal” of yoga, at least in the most traditional sense. And adhering to a regular practice of yoga is the path towards this form of liberation.
 
 Anyway, after a month in Rishikesh (during which time I experienced the most, ahem, “character building” food poisoning of my life), some friends and I carried on to see more of the beauty India has to offer. Starting with the Taj Mahal in Agra, to beautiful architecture and rich history in Rajasthan, and then finally to beaches and mountains in Kerala, I was consistently amazed by what the country had to offer. I really only scratched the surface in my 7 weeks there, so I’ll definitely need to go back one day.
 
@@ -296,7 +297,7 @@ After my time in the tropics, I began heading back down south the East coast. St
 
 ![frame_cut7_0](/assets/frame_cut7_0.jpg)
 ![IMG_1967](/assets/IMG_1967.jpg)\
-*Just before jumping out a plane, overlooking Airlie beach; Carlo sand blow, Rainbow Beach*
+*Just before jumping out of a plane, overlooking Airlie beach; Carlo sand blow, Rainbow Beach*
 
 
 ![IMG_2042](/assets/IMG_2042.jpg)
@@ -307,7 +308,7 @@ After my time in the tropics, I began heading back down south the East coast. St
 ![IMG_2075](/assets/IMG_2075.jpg)
 ![IMG_2115](/assets/IMG_2115.jpg)
 ![GOPR2604](/assets/GOPR2604.jpeg)\
-*About the size of my hand; SS Maheno Shipwreck; Beautiful Byron Bay*
+*Spider about the size of my hand; SS Maheno Shipwreck; Beautiful Byron Bay*
 
 ![IMG_2280](/assets/IMG_2280.jpg)
 ![IMG_2305](/assets/IMG_2305.jpg)
