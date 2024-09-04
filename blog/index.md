@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Sam Tripp - Blog
 permalink: /blog/
 ---
 

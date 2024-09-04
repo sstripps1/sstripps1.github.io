@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experience
+title: Sam Tripp - Experience
 permalink: /experience/
 ---
 
