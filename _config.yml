@@ -1,5 +1,5 @@
 name: Sam Tripp
 markdown: kramdown
 baseurl: /
-url: http://sstripps1.github.io
+url: https://samtripp.ca
 permalink: /blog/:year/:month/:day/:title

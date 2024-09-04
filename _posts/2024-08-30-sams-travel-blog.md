@@ -250,7 +250,7 @@ From Brisbane, I took about 5 days to drive the ~1700km North to Cairns. I can�
 ![IMG_0513](/assets/IMG_0513.jpg)\
 *Near Bowen, QLD*
 
-Once in Cairns, it was time to start the working part of my working holiday (my bank account insisted). Although my previous experience was in science and tech, I wanted to try my hand at working in hospitality while in Australia. I think working jobs like that is somewhat of a rite of passage, and it builds a certain skill set that is transferable to other types of careers. So, after hitting the streets and handing out resumes to every restaurant I could find, I landed a job as a Barista at a cafe. Australia has a big coffee culture, and the general standard for coffee is a lot higher than it is in Canada (even McDonalds, or “Maccas”, does espresso coffee down there). So, it was a great place for me to learn the art of a good coffee. It definitely took some time, but by the end customers were regularly telling me “great coffee mate”, so I guess I must have learned a thing or two. Although, I’ll confess that I’m still pretty bad at latte art.
+Once in Cairns, it was time to start the working part of my working holiday (my bank account insisted). Although my previous experience was in science and tech, I wanted to try my hand at working in hospitality while in Australia. I think working jobs like that is somewhat of a rite of passage, and it hones a certain skill set that is transferable to other types of careers. So, after hitting the streets and handing out resumes to every restaurant I could find, I landed a job as a Barista at a cafe. Australia has a big coffee culture, and the general standard for coffee is a lot higher than it is in Canada (even McDonalds, or “Maccas”, does espresso coffee down there). So, it was a great place for me to learn the art of a good coffee. It definitely took some time, but by the end customers were regularly telling me “great coffee mate”, so I guess I must have learned a thing or two. Although, I’ll confess that I’m still pretty bad at latte art.
 
 Throughout my months in Cairns I had lots of time to explore what Far North Queensland has to offer. There is an immense amount of beautiful lush jungle which includes a surprising amount of waterfalls and freshwater suitable for swimming (the saltwater crocs stick to estuaries near the ocean). This includes the Daintree Rainforest, which is one of the oldest rainforests in the world.
 
@@ -435,7 +435,7 @@ I made it all the way down to Mt Taranaki and hiked up to the hut, but sadly the
 ![IMG_2342](/assets/IMG_2342.jpg)
 ![IMG_2366](/assets/IMG_2366.jpg)
 ![IMG_2377](/assets/IMG_2377.jpg)\
-*Roy's Peak; Cow's enjoying the view on the way down from Roy's Peak; Wanaka tree*
+*Roy's Peak; Cows enjoying the view on the way down from Roy's Peak; Wanaka tree*
 
 ![IMG_2435](/assets/IMG_2435.jpg)
 ![IMG_2454](/assets/IMG_2454.jpg)\

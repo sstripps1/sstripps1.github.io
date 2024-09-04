@@ -26,7 +26,7 @@ Here’s a bit more detail on some of my project management tasks and tools:
 The following are some of the technical tools that I used:
 - Python: pandas, numpy, oop, vaex
 - Databases: SQL, Redis, Postgres
-- Frameworks: Flask, AWS, Azure
+- Frameworks/Platforms: Flask, AWS, Azure
 - Frontend: CSS, HTML, Canva
 - Version control: Git, CI/CD pipelines, unit testing
 - Other: Bash, Celery (task scheduler), JMeter (load testing)
