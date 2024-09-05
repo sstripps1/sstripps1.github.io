@@ -2,9 +2,10 @@
 layout: page
 title: Sam Tripp - Blog
 permalink: /blog/
+heading: Blog
 ---
 
-<h1>{{ page.title }}</h1>
+Check out my blog posts below :)
 <ul class="posts">
 
     {% for post in site.posts %}

@@ -2,6 +2,7 @@
 layout: page
 title: Sam Tripp - About
 permalink: /about/
+heading: About
 ---
 
 This page is dedicated to providing a little bit more info about me.

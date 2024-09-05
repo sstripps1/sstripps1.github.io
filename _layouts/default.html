@@ -5,6 +5,7 @@
     <title>{{ page.title }}</title>
     <!-- link to main stylesheet -->
     <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <p class="site-title">Sam Tripp</p>
 </head>
 
 <body>
@@ -17,8 +18,9 @@
         </ul>
     </nav>
     <div class="container">
-
-        {{ content }}
+        <p class=page-heading>{{ page.heading }}</p>
+    </div>
+    {{ content }}
 
     </div><!-- /.container -->
     <footer>
