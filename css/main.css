@@ -61,3 +61,15 @@ img {
     font-weight: bold;
     font-size: 2em;
 }
+
+.home-page-div {
+    display: flex;
+    flex-direction: row;
+}
+
+.headshot {
+    margin-right: 2vh;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+}
+
