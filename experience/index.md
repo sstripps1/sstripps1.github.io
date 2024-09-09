@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Experience
+title: Sam Tripp - Experience
 permalink: /experience/
+heading: Experience
 ---
-
-# Experience
-Here you can find more details about my previous work experience and education.
-
-## Work Experience
+### Work Experience
 #### Dash Solutions Architect
 *Plotly - Montréal, Canada*\
 2020 (Intern), 2021 - 2022 (Full time)
@@ -83,7 +80,7 @@ Additionally, during my last term as a TA, I co-lead a project to pilot new teac
 
 My time as a TA taught me how to better understand how students think, and adjust how I present information accordingly to maximize understanding.
 
-## Education
+### Education
 #### Bachelor’s of Science (BSc) - Science and Business (Co-op) - Dean’s Honours
 *University of Waterloo*\
 2016 - 2021

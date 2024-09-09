@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: Sam Tripp - About
 permalink: /about/
+heading: About
 ---
-
-This page is dedicated to providing a little bit more info about me.
-
 ## Basics
 - I'm Canadian and grew up in a town called Aurora, about 45km north of Toronto. Aurora is a quiet and wholesome town and was a nice place to grow up, although perhaps is not the most exciting place to live as an adult.
 - My birthday is on September 3rd, making me a Virgo (by the way, I don't really subscribe to astrology and do not believe there is any meaningful correlation between date of birth and personality traits, however I think it's a fun point of conversation - for example, did you know that Beyoncé is also a Virgo?)

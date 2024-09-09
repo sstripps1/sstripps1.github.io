@@ -10,15 +10,17 @@
 <body>
     <nav>
         <ul>
+            <li class="site-title">Sam Tripp</li>
             <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
             <li><a href="/experience">Experience</a></li>
             <li><a href="/blog">Blog</a></li>
+            <li><a href="/about">About</a></li>
         </ul>
     </nav>
     <div class="container">
-
-        {{ content }}
+        <p class=page-heading>{{ page.heading }}</p>
+    </div>
+    {{ content }}
 
     </div><!-- /.container -->
     <footer>
