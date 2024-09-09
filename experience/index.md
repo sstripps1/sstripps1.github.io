@@ -4,9 +4,6 @@ title: Sam Tripp - Experience
 permalink: /experience/
 heading: Experience
 ---
-
-Here you can find more details about my previous work experience and education.
-
 ### Work Experience
 #### Dash Solutions Architect
 *Plotly - Montréal, Canada*\
