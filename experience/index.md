@@ -83,9 +83,3 @@ My time as a TA taught me how to better understand how students think, and adjus
 *University of Waterloo*\
 2016 - 2021
 
-I began my undergrad in Biochemistry - as someone who had always been fascinated by biology (and the chemistry behind it), this seemed like a good fit. However, after 2 years in this program and one internship in a lab, I began to feel like my program was leading me towards a research-oriented career, and I realized that this was not for me (particularly not in a lab).
-
-Around this time, I was becoming more interested in coding, and had taught myself how to code in Python. The more I learned about programming, the more I learned about how powerful of a tool it is in many sectors, such as in the world of business. With this in mind, I decided to switch to Waterloo’s Science and Business program - a program that builds business skills on top of a science foundation. I felt like this program was the perfect place for me to explore programming in a business context, while still keeping a few science courses in my schedule to satisfy my interest.
-
-After transitioning to the new program, I did my next 2 internships in the fintech sector. These were both great opportunities for me to take my programming skills to the next level and learn more about the world of business. During my school terms, I took a few extra programming courses to strengthen my understanding of computing fundamentals. From there, I did my last internship at Plotly, where I eventually picked up a full time role after graduating in 2021.
-
