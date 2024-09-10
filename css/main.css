@@ -4,6 +4,7 @@ body {
     font-family: 'Courier New', 'Serif';
     background-color: #fff;
     color: #000;
+    max-width: 1000px;
 }
 
 nav ul, footer ul {
@@ -46,8 +47,10 @@ ul.posts li {
 }
 
 img {
-    height: 40vh;
+    height: 30vh;
     width: auto;
+    min-height: 200px;
+    max-height: 285px;
 }
 
 .site-title {
@@ -75,5 +78,15 @@ img {
 
 nav li.current a {
     text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+    nav ul, footer ul {
+        flex-direction: column;
+        font-size: 1.5em;
+    }
+    body {
+        width: 90%;
+    }
 }
 
