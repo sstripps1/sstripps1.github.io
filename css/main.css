@@ -73,3 +73,7 @@ img {
     margin-top: 2vh;
 }
 
+nav li.current a {
+    text-decoration: underline;
+}
+
