@@ -4,8 +4,8 @@ title: Sam Tripp - Experience
 permalink: /experience/
 heading: Experience
 ---
-### Work Experience
-#### Dash Solutions Architect
+## Work Experience
+### Dash Solutions Architect
 *Plotly - Montréal, Canada*\
 2020 (Intern), 2021 - 2022 (Full time)
 
@@ -32,7 +32,7 @@ In addition to app development and project management, I was also responsible fo
 
 Overall, my time at Plotly provided me with a wide range of experiences, both technical and non-technical. I liked the fact that I worked at the intersection between coding and working with clients - and it certainly increased my interest in the latter.
 
-#### Portfolio and Product Co-op
+### Portfolio and Product Co-op
 *Purpose Investments - Toronto, Canada*\
 2019
 
@@ -46,7 +46,7 @@ On the non-technical side, some of my other responsibilities included things suc
 
 This internship was great for not only honing my technical skills, but becoming more well rounded in other business skills as well.
 
-#### Junior Python Engineer
+### Junior Python Engineer
 *CPP Investments - Toronto, Canada*\
 2019
 
@@ -59,7 +59,7 @@ Additionally, I assisted with a project to encourage socialization between membe
 As my first internship in software, my time at CPP Investments was a great chance for me to learn industry best practices and understand how programming works in a professional context, while simultaneously learning a lot about the world of finance and particularly quantitative finance.
 
 
-#### Lab Research Technician
+### Lab Research Technician
 *Centre for Microbial Chemical Biology (McMaster University) - Hamilton, Canada*\
 2018
 
@@ -70,7 +70,7 @@ I worked as a lab assistant in the core facility of this centre, where most of t
 This role was a great learning experience for me - not only did I greatly improve a lot of my wet lab skills (in the context of some pretty amazing research!), but I improved my ability to work quickly and accurately in a fast paced, constantly changing environment. I’m very thankful for the professional development that this experience afforded me.
 
 
-#### Teaching Assistant
+### Teaching Assistant
 *University of Waterloo - Waterloo, Canada*\
 2017 - 2018
 
@@ -80,8 +80,8 @@ Additionally, during my last term as a TA, I co-lead a project to pilot new teac
 
 My time as a TA taught me how to better understand how students think, and adjust how I present information accordingly to maximize understanding.
 
-### Education
-#### Bachelor’s of Science (BSc) - Science and Business (Co-op) - Dean’s Honours
+## Education
+### Bachelor’s of Science (BSc) - Science and Business (Co-op) - Dean’s Honours
 *University of Waterloo*\
 2016 - 2021
 
