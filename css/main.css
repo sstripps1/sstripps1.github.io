@@ -74,6 +74,7 @@ img {
     margin-right: 2vh;
     margin-bottom: 2vh;
     margin-top: 2vh;
+    max-width: 186px;
 }
 
 nav li.current a {
@@ -87,6 +88,9 @@ nav li.current a {
     }
     body {
         width: 90%;
+    }
+    .home-page-div {
+        flex-direction: column;
     }
 }
 
