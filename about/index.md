@@ -14,13 +14,13 @@ I began my undergrad in Biochemistry - as someone who had always been fascinated
 
 Around this time, I was becoming more interested in coding, and had taught myself how to code in Python. The more I learned about programming, the more I learned about how powerful of a tool it is in many sectors, such as in the world of business. With this in mind, I decided to switch to Waterloo’s Science and Business program - a program that builds business skills on top of a science foundation. I felt like this program was the perfect place for me to explore programming in a business context, while still keeping a few science courses in my schedule to satisfy my interest. It also provided me with a solid understanding of a variety of business areas, such as marketing, economics, accounting, finance, human resources, and law.
 
-After transitioning to the new program, I did my next 2 internships in the fintech sector. These were both great opportunities for me to take my programming skills to the next level and learn more about the world of business. During my school terms, I took a few extra programming courses to strengthen my understanding of computing fundamentals. From there, I did my last internship at Plotly, where I eventually picked up a full time role after graduating in 2021. 
+After transitioning to the new program, I did my next 2 internships in the fintech sector, which helped me to take my programming skills to the next level and learn more about finance. During my school terms, I took a few extra programming courses to strengthen my understanding of computing fundamentals. From there, I did my last internship at Plotly, where I eventually picked up a full time role after graduating in 2021. 
 
 My time at Plotly helped me to discover my passion for working with customers. I had the opportunity to work with clients from a variety of different sectors, and it was my job to understand their unique use case, and actualize a solution using our product. This was process was often quite challenging and often required a lot of creativity, which I loved.
 
 You can read more about my work experience [here](/experience/).
 
-After spending some time in this role, I decided to take some time away from tech to satisfy my travel bug and work in the hospitality industry.
+After spending some time in this role, I decided to take some time away from tech to satisfy my travel bug and [work in the hospitality industry](/blog/2024/09/11/skills-from-hospitality).
 
 ## About Me
 ### Basics
@@ -44,4 +44,4 @@ I much prefer outdoor running over treadmill running, and when choosing an route
 I started doing yoga on YouTube during the pandemic as a way to alleviate stress and increase strength and flexibility, and pretty quickly I noticed positive changes in all of the above. Since then I've completed my 200 hour Yoga Teacher training course and have taught a few informal classes here and there, and have continued to develop my own practise to be better suited to my areas that need work.
 
 #### Travelling
-I've done a decent amount of travelling in my life so far (19 countries to date), and I love exploring new landscapes, foods, and cultures. I recently took some time off for a year and a half long backpacking trip, [which you can read about here](https://samtripp.ca/blog/2024/08/30/sams-travel-blog).
+I've done a decent amount of travelling in my life so far (19 countries to date), and I love exploring new landscapes, foods, and cultures. I recently took some time off for a year and a half long backpacking trip, [which you can read about here](/blog/2024/08/30/sams-travel-blog).
