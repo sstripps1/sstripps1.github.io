@@ -4,6 +4,8 @@ title: Sam Tripp - Experience
 permalink: /experience/
 heading: Experience
 ---
+
+You can find a copy of [my resume here.](/experience/sam_tripp_resume.pdf){:target="_blank"}
 ## Work Experience
 ### Dash Solutions Architect
 *Plotly - Montréal, Canada*\
