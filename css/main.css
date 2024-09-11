@@ -69,10 +69,11 @@ img {
 }
 
 .headshot {
-    margin-right: 2vh;
-    margin-bottom: 2vh;
-    margin-top: 2vh;
-    max-width: 186px;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    max-width: 30%;
+    height: auto;
+    min-height: unset;
 }
 
 nav li.current a {
