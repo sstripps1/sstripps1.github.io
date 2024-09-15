@@ -66,14 +66,14 @@ img {
 .home-page-div {
     display: flex;
     flex-direction: row;
+    align-items: flex-start;
 }
 
 .headshot {
-    margin-right: 5%;
-    margin-bottom: 5%;
-    max-width: 30%;
-    height: auto;
-    min-height: unset;
+    width: auto;
+    height: 300px;
+    object-fit: contain;
+    padding: 1rem;
 }
 
 nav li.current a {
@@ -90,6 +90,9 @@ nav li.current a {
     }
     .home-page-div {
         flex-direction: column;
+    }
+    .headshot {
+        padding: 0rem;
     }
 }
 
