@@ -46,11 +46,6 @@ ul.posts li {
     list-style: none;
 }
 
-img {
-    height: 30vh;
-    width: auto;
-    min-height: 200px;
-}
 
 .site-title {
     text-align: left;
@@ -94,5 +89,16 @@ nav li.current a {
     .headshot {
         padding: 0rem;
     }
+}
+
+.travel-blog-img {
+    height: 40vh;
+    width: auto;
+    min-height: 200px;
+}
+
+.screenshot-img {
+    width: 100%;
+    height: auto;
 }
 

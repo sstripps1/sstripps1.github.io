@@ -20,17 +20,17 @@ create and follow my own custom routines (without having to constantly punch my 
 The app allows you to specify the name and duration of as many intervals as you'd like. You
 can also add in sub-intervals for variations on the exercise within the interval (e.g. 20 seconds
 of squats, 20 second hold, 20 more seconds of squats).\
-![main_page](/assets/main_page.jpg)
+![main_page](/assets/main_page.jpg){:.screenshot-img}
 
 These exercises can also be saved to a Redis database, so you can create multiple workouts
 and load up the one you want.\
-![save_load](/assets/save_load.jpg)
+![save_load](/assets/save_load.jpg){:.screenshot-img}
 
 ### Start the workout and follow along
 Once the workout is started, follow the instructions on the screen, and listen for the *beep*
 to signify the next interval. Check out the countdown to see how long is left in the current
 interval, and see the progress bar to see how much you've completed so far.\
-![workout_mode](/assets/workout_mode.jpg)
+![workout_mode](/assets/workout_mode.jpg){:.screenshot-img}
 
 Have a good workout!
 
