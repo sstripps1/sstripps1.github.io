@@ -46,11 +46,6 @@ ul.posts li {
     list-style: none;
 }
 
-img {
-    height: 30vh;
-    width: auto;
-    min-height: 200px;
-}
 
 .site-title {
     text-align: left;
@@ -66,14 +61,14 @@ img {
 .home-page-div {
     display: flex;
     flex-direction: row;
+    align-items: flex-start;
 }
 
 .headshot {
-    margin-right: 5%;
-    margin-bottom: 5%;
-    max-width: 30%;
-    height: auto;
-    min-height: unset;
+    width: auto;
+    height: 300px;
+    object-fit: contain;
+    padding: 1rem;
 }
 
 nav li.current a {
@@ -91,5 +86,19 @@ nav li.current a {
     .home-page-div {
         flex-direction: column;
     }
+    .headshot {
+        padding: 0rem;
+    }
+}
+
+.travel-blog-img {
+    height: 40vh;
+    width: auto;
+    min-height: 200px;
+}
+
+.screenshot-img {
+    width: 100%;
+    height: auto;
 }
 

@@ -5,12 +5,12 @@ permalink: /about/
 heading: About
 ---
 ## Professional Interests
-I like helping people transform ideas into effective and intuitive software solutions. My strength lies in developing relationships with customers to thoroughly understand their use cases, allowing me to conceptualize how software can best be applied to enhance their experience. As someone who is (mostly) self-taught in programming and has a diverse background, I excel at bridging the gap between individuals of different areas of expertise by communicating information in a palatable and engaging way.
+I like helping people transform ideas into effective and intuitive software solutions. My strength lies in developing relationships with customers to thoroughly understand their use cases, allowing me to conceptualize how software can best be applied to enhance their experience. As someone who has written code for applications in a variety of sectors, I excel at bridging the gap between individuals of different areas of expertise by communicating information in a palatable and engaging way.
 
 Some of my specific areas of interest include life sciences (particularly health and wellness), geography, environment, and video editing.
 
 ## Career Story
-I began my undergrad in Biochemistry - as someone who had always been fascinated by biology (and the chemistry behind it), this seemed like a good fit. However, after 2 years in this program and one internship in a lab, I began to feel like my program was leading me towards a research-oriented career, and I realized that this was not for me (particularly not in a lab).
+I began my undergrad in Biochemistry - as someone who had always been fascinated by biology (and the chemistry behind it), this seemed like a good fit. However, I began to feel like my program was leading me towards a research-oriented career, and I realized that this was not for me (particularly not in a lab).
 
 Around this time, I was becoming more interested in coding, and had taught myself how to code in Python. The more I learned about programming, the more I learned about how powerful of a tool it is in many sectors, such as in the world of business. With this in mind, I decided to switch to Waterloo’s Science and Business program - a program that builds business skills on top of a science foundation. I felt like this program was the perfect place for me to explore programming in a business context, while still keeping a few science courses in my schedule to satisfy my interest. It also provided me with a solid understanding of a variety of business areas, such as marketing, economics, accounting, finance, human resources, and law.
 
