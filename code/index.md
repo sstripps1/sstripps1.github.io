@@ -14,7 +14,8 @@ projects on [my github](https://github.com/sstripps1).
 
 I'm a big fan of home-workouts, particularly interval training workouts. I've found quite a
 few good YouTube videos that walk me through some good routines, but as I wanted to be able to
-create and follow my own custom routines (without having to constantly punch my stopwatch or timer). So, I decided to make an app that does just that.
+create and follow my own custom routines (without having to constantly punch my stopwatch or timer), 
+so I decided to make an app that does just that.
 
 ### Create and save a workout
 The app allows you to specify the name and duration of as many intervals as you'd like. You
