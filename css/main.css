@@ -7,14 +7,16 @@ body {
     max-width: 1000px;
 }
 
-nav ul, footer ul {
+nav ul,
+footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
     display: flex;
 }
 
-nav ul li, footer ul li {
+nav ul li,
+footer ul li {
     display: block;
     margin-right: 20px;
 }
@@ -23,6 +25,7 @@ a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
 }
@@ -37,8 +40,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
@@ -76,16 +79,21 @@ nav li.current a {
 }
 
 @media screen and (max-width: 768px) {
-    nav ul, footer ul {
+
+    nav ul,
+    footer ul {
         flex-direction: column;
         font-size: 1.5em;
     }
+
     body {
         width: 90%;
     }
+
     .home-page-div {
         flex-direction: column;
     }
+
     .headshot {
         padding: 0rem;
     }
@@ -101,4 +109,3 @@ nav li.current a {
     width: 100%;
     height: auto;
 }
-
