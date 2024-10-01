@@ -28,6 +28,7 @@ a {
 
 a:hover {
     text-decoration: underline;
+    text-underline-offset: 5px;
 }
 
 p {
@@ -76,6 +77,7 @@ ul.posts li {
 
 nav li.current a {
     text-decoration: underline;
+    text-underline-offset: 5px;
 }
 
 @media screen and (max-width: 768px) {

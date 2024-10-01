@@ -8,7 +8,7 @@ heading: Experience
 You can find a copy of [my resume here.](/experience/sam_tripp_resume.pdf){:target="_blank"}
 ## Work Experience
 ### Dash Solutions Architect
-*Plotly - Montréal, Canada*\
+*Plotly - Vancouver, Canada*\
 2020 (Intern), 2021 - 2022 (Full time)
 
 In this role I was a member of the Professional Services team, which essentially acted as Plotly’s consulting unit for current and prospective clients using the Dash Enterprise software. Dash Enterprise is a framework for developing, designing, and deploying data applications written in Python.
