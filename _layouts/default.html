@@ -44,9 +44,11 @@
 
         // Loop through each link
         navLinks.forEach(function (link) {
+            var href = link.getAttribute('href');
             // Check if the href attribute of the link matches the current path
-            if (link.getAttribute('href') === path) {
-                // Add 'current' class to the parent <li> of the matched link
+            if (path === '/' && href === '/') {
+                link.parentElement.classList.add('current');
+            } else if (href !== '/' && path.includes(href)) {
                 link.parentElement.classList.add('current');
             }
         });
